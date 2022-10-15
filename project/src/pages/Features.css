@@ -1,0 +1,16 @@
+.f-all{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: white;
+}
+.fe-all{
+    border:1px solid ;
+    background-color: antiquewhite;
+    margin-right: 100px;
+    padding-left: 50px;
+    padding-right: 80px; 
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-style: italic;
+}

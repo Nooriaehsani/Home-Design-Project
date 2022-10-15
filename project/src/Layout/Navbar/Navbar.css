@@ -1,0 +1,21 @@
+
+.right,.navbar{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     align-items: center;
+     
+    
+}
+.navbar .right{
+    flex: 3;
+    padding: 20px;
+    margin:5px ;
+    margin-left: 150px;
+    margin-right: 150px;
+    width: 200px;
+   
+}
+.left{
+    flex: 1;
+}
