@@ -1,0 +1,37 @@
+
+.right,.navbar{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     align-items: center;
+     
+}
+.navbar .right{
+    flex: 4;
+    padding: 20px;
+    margin:5px ;
+    margin-left: 150px;
+    margin-right: 150px;
+    width: 200px;
+}
+.left{
+    flex: 1;
+}
+h2{
+    color:darkcyan;
+    font-weight: bold;
+
+}
+a{
+    text-decoration: none;
+}
+.navbar .last{
+    background-color:darkcyan;
+    color: white;
+    padding: 19px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+@media  screen and (min-width: 600){
+    
+}
